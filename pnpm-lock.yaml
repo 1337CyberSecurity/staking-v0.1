@@ -12,8 +12,8 @@ dependencies:
     specifier: ^3.1.2
     version: 3.1.2(hardhat@2.12.1-ir.0)
   '@openzeppelin/contracts':
-    specifier: ^4.9.3
-    version: 4.9.3
+    specifier: ^4.9.6
+    version: 4.9.6
   merkletreejs:
     specifier: ^0.2.31
     version: 0.2.32
@@ -956,8 +956,8 @@ packages:
       hardhat: 2.12.1-ir.0(ts-node@10.8.1)(typescript@4.7.4)
     dev: true
 
-  /@openzeppelin/contracts@4.9.3:
-    resolution: {integrity: sha512-He3LieZ1pP2TNt5JbkPA4PNT9WC3gOTOlDcFGJW4Le4QKqwmiNJCRt44APfxMxvq7OugU/cqYuPcSBzOw38DAg==}
+  /@openzeppelin/contracts@4.9.6:
+    resolution: {integrity: sha512-xSmezSupL+y9VkHZJGDoCBpmnB2ogM13ccaYDWqJTfS3dbuHkgjuwDFUmaFauBCboQMGB/S5UqUl2y54X99BmA==}
     dev: false
 
   /@resolver-engine/core@0.3.3:
@@ -4521,7 +4521,6 @@ packages:
     dependencies:
       is-hex-prefixed: 1.0.0
       strip-hex-prefix: 1.0.0
-    bundledDependencies: false
 
   /event-target-shim@5.0.1:
     resolution: {integrity: sha512-i/2XbnSz/uxRCU6+NdVJgKWDTM427+MqYbkQzD321DuCQJUqOuJKIA0IM2+W2xtYHdKOmZ4dR6fExsd4SXL+WQ==}
